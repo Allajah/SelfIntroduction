@@ -1,7 +1,7 @@
 ## 開発環境構築
 ```sh
-### リポジトリのクローン
+# リポジトリのクローン
 git clone https://github.com/Allajah/SelfIntroduction.git
-### gemのインストール
+# gemのインストール
 bundle install
 ```
