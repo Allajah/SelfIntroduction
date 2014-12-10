@@ -12,3 +12,15 @@ html,body{
 body > .profile{
   height: auto;
 }
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 160px;
+  border-radius: 160px;
+  -webkit-border-radius: 160px;
+  -moz-border-radius: 160px;
+}
+
