@@ -1,1 +1,2 @@
 gem 'slim'
+gem 'sass'
